@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MonstersListScreen should match snapshot 1`] = `
+<View>
+  <Text>
+    Monster:
+    myMonster
+  </Text>
+</View>
+`;
+
+exports[`MonstersListScreen should match snapshot when empty 1`] = `
+<Text>
+  List Empty
+</Text>
+`;
