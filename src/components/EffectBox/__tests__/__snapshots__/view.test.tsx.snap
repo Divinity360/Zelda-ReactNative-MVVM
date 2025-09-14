@@ -1,0 +1,178 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EffectBox should match snapshot for attack type 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "marginRight": 8,
+    }
+  }
+>
+  <SvgMock
+    height={16}
+    width={16}
+  />
+  <View
+    style={
+      [
+        {
+          "alignItems": "center",
+          "backgroundColor": "rgba(0, 0, 0, 0.5)",
+          "borderRadius": 3,
+          "height": 25,
+          "justifyContent": "center",
+          "minWidth": 35,
+          "padding": 2,
+          "width": "auto",
+        },
+        {
+          "marginLeft": 6,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "backgroundColor": "transparent",
+          "borderColor": "rgba(299, 299, 299, 0.2)",
+          "borderWidth": 1,
+          "height": "100%",
+          "justifyContent": "center",
+          "paddingHorizontal": 3,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "white",
+          }
+        }
+      >
+        10
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`EffectBox should match snapshot for bonus type 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "marginRight": 8,
+    }
+  }
+>
+  <View
+    style={
+      [
+        {
+          "alignItems": "center",
+          "backgroundColor": "rgba(0, 0, 0, 0.5)",
+          "borderRadius": 3,
+          "height": 25,
+          "justifyContent": "center",
+          "minWidth": 35,
+          "padding": 2,
+          "width": "auto",
+        },
+        null,
+      ]
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "backgroundColor": "transparent",
+          "borderColor": "rgba(299, 299, 299, 0.2)",
+          "borderWidth": 1,
+          "height": "100%",
+          "justifyContent": "center",
+          "paddingHorizontal": 3,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "white",
+          }
+        }
+      >
+        10
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`EffectBox should match snapshot for defense type 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "marginRight": 8,
+    }
+  }
+>
+  <SvgMock
+    height={16}
+    width={16}
+  />
+  <View
+    style={
+      [
+        {
+          "alignItems": "center",
+          "backgroundColor": "rgba(0, 0, 0, 0.5)",
+          "borderRadius": 3,
+          "height": 25,
+          "justifyContent": "center",
+          "minWidth": 35,
+          "padding": 2,
+          "width": "auto",
+        },
+        {
+          "marginLeft": 6,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "backgroundColor": "transparent",
+          "borderColor": "rgba(299, 299, 299, 0.2)",
+          "borderWidth": 1,
+          "height": "100%",
+          "justifyContent": "center",
+          "paddingHorizontal": 3,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "white",
+          }
+        }
+      >
+        10
+      </Text>
+    </View>
+  </View>
+</View>
+`;
