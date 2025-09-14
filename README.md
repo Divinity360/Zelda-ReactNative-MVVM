@@ -1,15 +1,6 @@
-# Zelda Database App
-
-A React Native mobile application that provides a database of The Legend of Zelda: Breath of the Wild content, including monsters, materials, equipment and creatures.
-
-An app created to explore recent lib versions and implementations.
+# Zelda React Native App
 
 ## Features
-
-- **Monsters Database**: Browse and view details of all monsters from Breath of the Wild
-- **Materials Database**: Explore materials and their properties
-- **Equipment Database**: View weapons, armor, and equipment with their stats
-- **Creatures Database**: Creature details, drops and cooking stats.
 - **Modern UI**: Clean, intuitive interface with Zelda-themed styling
 - **Offline Support**: Cached data for offline viewing
 
@@ -56,16 +47,6 @@ src/
 - `npm run format:check` - Check code formatting
 - `npm test` - Run Jest unit tests
 
-## API
-
-The app uses the [BotW Compendium API](https://botw-compendium.herokuapp.com/) to fetch game data including:
-- Monsters and their properties
-- Materials and their effects
-- Equipment with attack/defense stats
-- Creatures and their properties
-
 ## Acknowledgments
 
 - Data provided by the BotW Compendium API
-- SVG content, icons and fonts used from Figma - [Zelda BOTW UI KIT](https://www.figma.com/design/HqBnmVybYBDIQX2RAwgVXY/Zelda-BOTW-UI-Kit--Community-?node-id=205-23499&t=jkqESnKDFwNI1eKB-0)
-- The Legend of Zelda: Breath of the Wild by Nintendo
